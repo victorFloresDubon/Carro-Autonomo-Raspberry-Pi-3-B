@@ -1,0 +1,12 @@
+### VS Code ###
+.vscode/
+
+## PyCache ##
+__pycache__/
+
+## Otros ##
+chess_board/
+mlp_xml/
+scripts_tests/
+training_data/
+training_images/
