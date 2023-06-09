@@ -13,3 +13,9 @@ Si el servidor será la misma Raspberry Pi, se configurará de la siguiente form
 ```
 server_ip = 'localhost'
 ```
+## Diagrama en Fritzing
+<img src="Diagrama\Carro autónomo_Raspberry_B+.png" alt="carro ensamblado"></img>
+
+---
+## Carro Ensamblado
+<img src="Diagrama\20230609_134625.jpg" alt="carro ensamblado"></img>
